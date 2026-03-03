@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|d:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA9wEEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T13:48:31.993Z",
               "EditorCaption": ""
@@ -49,6 +45,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T13:13:05.978Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

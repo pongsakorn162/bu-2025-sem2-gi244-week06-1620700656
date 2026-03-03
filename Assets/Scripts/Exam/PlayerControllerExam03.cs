@@ -44,7 +44,7 @@ public class PlayerControllerExam03 : MonoBehaviour
             transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);
         }
         if (transform.position.x > xRange)
-        {
+        
             transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
 
             if (enableAutoFireMode)
@@ -63,6 +63,6 @@ public class PlayerControllerExam03 : MonoBehaviour
             {
                 Instantiate(projectilePrefab, transform.position, transform.rotation);
             }
-        }
+        
     }
 }
