@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerControllerExam02 : MonoBehaviour
 {
     public float speed;
-    public float zRange = 10;
+    public float yRange = 10f;
     public GameObject projectilePrefab;
 
     private float verticalInput;
@@ -21,5 +21,16 @@ public class PlayerControllerExam02 : MonoBehaviour
     void Update()
     {
         verticalInput = moveAction.ReadValue<Vector2>().y;
+        transform.Translate(Vector3.up * verticalInput * speed * Time.deltaTime);
+
+        float clampY = Mathf.Clamp(transform.position.y, -yRange, yRange);
+        transform.position = new Vector3(transform.position.x,clampY, transform.position.z);
+
+        if (shootAction.triggered)
+        {
+            GameObject bullet=Instantiate(projectilePrefab, transform.position, Quaternion.identity);
+            bullet.transform.right = Vector3.right;
+        }
+
     }
 }
