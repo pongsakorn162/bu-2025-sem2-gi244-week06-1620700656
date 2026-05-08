@@ -3,8 +3,8 @@ using UnityEngine.InputSystem;
 
 public class PlayerControllerExam02 : MonoBehaviour
 {
-    public float speed;
-    public float yRange = 10f;
+    public float speed = 5f;
+    public float zRange = 10f;
     public GameObject projectilePrefab;
 
     private float verticalInput;
@@ -17,18 +17,30 @@ public class PlayerControllerExam02 : MonoBehaviour
         shootAction = InputSystem.actions.FindAction("Shoot");
     }
 
+    private void OnEnable()
+    {
+        moveAction.Enable();
+        shootAction.Enable();
+    }
+    private void OnDisable()
+    {
+        moveAction.Disable();
+        shootAction.Disable();
+    }
+
     // Update is called once per frame
     void Update()
     {
         verticalInput = moveAction.ReadValue<Vector2>().y;
-        transform.Translate(Vector3.up * verticalInput * speed * Time.deltaTime);
+        transform.Translate(Vector3.forward * verticalInput * speed * Time.deltaTime);
 
-        float clampY = Mathf.Clamp(transform.position.y, -yRange, yRange);
-        transform.position = new Vector3(transform.position.x,clampY, transform.position.z);
+        float clampZ = Mathf.Clamp(transform.position.z, -zRange, zRange);
+        transform.position = new Vector3(transform.position.x,transform.position.y, clampZ);
 
         if (shootAction.triggered)
         {
-            GameObject bullet=Instantiate(projectilePrefab, transform.position, Quaternion.identity);
+            GameObject bullet = Instantiate(projectilePrefab, transform.position, Quaternion.identity);
+
             bullet.transform.right = Vector3.right;
         }
 

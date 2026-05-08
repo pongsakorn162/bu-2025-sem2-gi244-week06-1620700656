@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|d:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\slowitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slowitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|d:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|d:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\bomberbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bomberbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\homingbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homingbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\speeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\healthv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\healthv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F0508B-6592-3365-F773-B3E351E121EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +70,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BomberBullet.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\BomberBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BomberBullet.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\BomberBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BomberBullet.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:23:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomingBullet.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\HomingBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HomingBullet.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\HomingBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HomingBullet.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:16:56.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:37:27.299Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerControllerExam03.cs",
-              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA9wEEAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SlowItem.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\SlowItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlowItem.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\SlowItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlowItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T13:48:31.993Z",
+              "WhenOpened": "2026-05-01T09:44:22.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerControllerExam02.cs",
-              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
-              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T13:13:05.978Z",
+              "WhenOpened": "2026-04-29T03:38:01.786Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeedItem.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\SpeedItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeedItem.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\SpeedItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeedItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T10:27:59.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaveSpawnManager.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\WaveSpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawnManager.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\WaveSpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:39:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WaveController.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\WaveController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\WaveController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:38:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wave.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Wave.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wave.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Wave.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:38:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveForward.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\MoveForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveForward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:37:10.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:35:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HealthV2.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\HealthV2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthV2.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\HealthV2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:35:45.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthV1.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\HealthV1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthV1.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\HealthV1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:34:59.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\Food.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:28:53.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DestroyOutOfBound.cs",
+              "DocumentMoniker": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ToolTip": "D:\\github\\bu-2025-sem2-gi244-week06-1620700656\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:28:25.954Z"
             }
           ]
         }
